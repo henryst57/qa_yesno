@@ -1,0 +1,9 @@
+tensorflow
+transformers
+tensorflow_addons
+numpy
+pandas
+pydot
+scikit-learn
+onnx==1.8.1
+pytorch2keras
